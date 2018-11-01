@@ -16,15 +16,22 @@
  Major Topics Involved :
     
     (Latent Dirichlet allocation Topic Modelling)
-     1)
-     2)
-     3)
-     4)
-     
+    1) Dylan Farrow - Woody Allen Controversy
+    2) Movement Expressions 
+    3) Political Party
+    4) Trump
+    5) Hugh Hewwit
+    6) Corey Lewandowski 
+    7) Roy Moore & Alabama
+    8) Time to Speak Up!
+    9) Types of Harrasments
+    
  Clustering tweets on common interests:
  
     1) Found tweets related to common topic
     2) Clustering
+    
+ Number of negative tweets per Topic 
     
  
  
