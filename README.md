@@ -1,5 +1,8 @@
 # #MeToo Analysis
 
+
+(If unable to view notebook, Please copy - paste link of notebook on https://nbviewer.jupyter.org/  , Thanks.)
+
  #MeToo spread as a hashtag used on social media in an
  attempt to showcase the widespread prevalence of sexual assault and harassment, majorly in the workplace. Used #MeToo tweets from Twitter  Dataset for analyzing sentiments of MeToo movements and major topics involed, negative tweets associated with the topics etc. Also clustered tweets on common interest.
  
